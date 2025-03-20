@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 11b7dd6d4d8bb3442bd08e05d9d129ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8361389921234974852
+    second: Ngua_die_0
+  - first:
+      213: -7527460969709856000
+    second: Ngua_die_1
+  - first:
+      213: 5806502508288878555
+    second: Ngua_die_2
+  - first:
+      213: 5077134127896963929
+    second: Ngua_die_3
+  - first:
+      213: -3469898728318530374
+    second: Ngua_die_4
+  - first:
+      213: 2639017933773037736
+    second: Ngua_die_5
+  - first:
+      213: -1958818505966008734
+    second: Ngua_die_6
+  - first:
+      213: -3001244491114522802
+    second: Ngua_die_7
+  - first:
+      213: 6923615097540547307
+    second: Ngua_die_8
+  - first:
+      213: 3508121682063986115
+    second: Ngua_die_9
+  - first:
+      213: 1789280991563353847
+    second: Ngua_die_10
+  - first:
+      213: 7387234733371301557
+    second: Ngua_die_11
+  - first:
+      213: 6782484592106665590
+    second: Ngua_die_12
+  - first:
+      213: 7563269182343133219
+    second: Ngua_die_13
+  - first:
+      213: 4717537014478132894
+    second: Ngua_die_14
+  - first:
+      213: -4912338945600058177
+    second: Ngua_die_15
+  - first:
+      213: -2179419477776274387
+    second: Ngua_die_16
+  - first:
+      213: 1915366799272180159
+    second: Ngua_die_17
+  - first:
+      213: -1438015932797901158
+    second: Ngua_die_18
+  - first:
+      213: -7348936704952324797
+    second: Ngua_die_19
+  - first:
+      213: 7498585342488317665
+    second: Ngua_die_20
+  - first:
+      213: 9176013982079687355
+    second: Ngua_die_21
+  - first:
+      213: 1286507346306280240
+    second: Ngua_die_22
+  - first:
+      213: 2568561473825781746
+    second: Ngua_die_23
+  - first:
+      213: 9182307731877883397
+    second: Ngua_die_24
+  - first:
+      213: 4143920605165700340
+    second: Ngua_die_25
+  - first:
+      213: 3025207308115389945
+    second: Ngua_die_26
+  - first:
+      213: 9085075274005009918
+    second: Ngua_die_27
+  - first:
+      213: -5060538111040267948
+    second: Ngua_die_28
+  - first:
+      213: -1339959031788295721
+    second: Ngua_die_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ngua_die_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 495
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488fdb335df990470800000000000000
+      internalID: 8361389921234974852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 495
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b93d75126198790800000000000000
+      internalID: -7527460969709856000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 503
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd729f16447d49050800000000000000
+      internalID: 5806502508288878555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_3
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 503
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95baf4ae69a957640800000000000000
+      internalID: 5077134127896963929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_4
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 503
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc8efbad7178dfc0800000000000000
+      internalID: -3469898728318530374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_5
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 503
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a06d6224dcaf9420800000000000000
+      internalID: 2639017933773037736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 487
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2664f6472f0e0d4e0800000000000000
+      internalID: -1958818505966008734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 407
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47550f59007956d0800000000000000
+      internalID: -3001244491114522802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 402
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be29f629f3f951060800000000000000
+      internalID: 6923615097540547307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 23
+        width: 346
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd0540451a5fa030800000000000000
+      internalID: 3508121682063986115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_10
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 47
+        width: 394
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe0e71f49dc4d810800000000000000
+      internalID: 1789280991563353847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_11
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 87
+        width: 458
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be160bc9dab48660800000000000000
+      internalID: 7387234733371301557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_12
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 87
+        width: 466
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676f3172dc9302e50800000000000000
+      internalID: 6782484592106665590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_13
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328b83adf3126f860800000000000000
+      internalID: 7563269182343133219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96d9ba8bee087140800000000000000
+      internalID: 4717537014478132894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc013371cdd3dbb0800000000000000
+      internalID: -4912338945600058177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ce392388521c1e0800000000000000
+      internalID: -2179419477776274387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9f135b4ffb49a10800000000000000
+      internalID: 1915366799272180159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96aa38c0242b0ce0800000000000000
+      internalID: -1438015932797901158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dac70d005530a90800000000000000
+      internalID: -7348936704952324797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee87f8c3a3501860800000000000000
+      internalID: 7498585342488317665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba90ef9910c75f70800000000000000
+      internalID: 9176013982079687355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_22
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b24818d979ad110800000000000000
+      internalID: 1286507346306280240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7b3273d0d55a320800000000000000
+      internalID: 2568561473825781746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e67e07b3c1e6f70800000000000000
+      internalID: 9182307731877883397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_25
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4c250c5d9228930800000000000000
+      internalID: 4143920605165700340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_26
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd222cb402bbf920800000000000000
+      internalID: 3025207308115389945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_27
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5d0c0b3dba41e70800000000000000
+      internalID: 9085075274005009918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_28
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4595e1f566b55c9b0800000000000000
+      internalID: -5060538111040267948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ngua_die_29
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9aea82c52876de0800000000000000
+      internalID: -1339959031788295721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ngua_die_0: 8361389921234974852
+      Ngua_die_1: -7527460969709856000
+      Ngua_die_10: 1789280991563353847
+      Ngua_die_11: 7387234733371301557
+      Ngua_die_12: 6782484592106665590
+      Ngua_die_13: 7563269182343133219
+      Ngua_die_14: 4717537014478132894
+      Ngua_die_15: -4912338945600058177
+      Ngua_die_16: -2179419477776274387
+      Ngua_die_17: 1915366799272180159
+      Ngua_die_18: -1438015932797901158
+      Ngua_die_19: -7348936704952324797
+      Ngua_die_2: 5806502508288878555
+      Ngua_die_20: 7498585342488317665
+      Ngua_die_21: 9176013982079687355
+      Ngua_die_22: 1286507346306280240
+      Ngua_die_23: 2568561473825781746
+      Ngua_die_24: 9182307731877883397
+      Ngua_die_25: 4143920605165700340
+      Ngua_die_26: 3025207308115389945
+      Ngua_die_27: 9085075274005009918
+      Ngua_die_28: -5060538111040267948
+      Ngua_die_29: -1339959031788295721
+      Ngua_die_3: 5077134127896963929
+      Ngua_die_4: -3469898728318530374
+      Ngua_die_5: 2639017933773037736
+      Ngua_die_6: -1958818505966008734
+      Ngua_die_7: -3001244491114522802
+      Ngua_die_8: 6923615097540547307
+      Ngua_die_9: 3508121682063986115
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

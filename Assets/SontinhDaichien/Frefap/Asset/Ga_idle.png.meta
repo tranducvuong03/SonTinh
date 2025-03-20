@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 19db6db258bc77b46bd278c72556ec34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6504972278492449979
+    second: Ga_idle_0
+  - first:
+      213: 4017572718823517216
+    second: Ga_idle_1
+  - first:
+      213: 3189935240901088257
+    second: Ga_idle_2
+  - first:
+      213: 6812386690262613104
+    second: Ga_idle_3
+  - first:
+      213: 256885912709613717
+    second: Ga_idle_4
+  - first:
+      213: 8601798972919740265
+    second: Ga_idle_5
+  - first:
+      213: -2059308321836998849
+    second: Ga_idle_6
+  - first:
+      213: -5663149652226415331
+    second: Ga_idle_7
+  - first:
+      213: -3735701854997925505
+    second: Ga_idle_8
+  - first:
+      213: -1391713633022315644
+    second: Ga_idle_9
+  - first:
+      213: 319900682870291795
+    second: Ga_idle_10
+  - first:
+      213: -3340141694947803843
+    second: Ga_idle_11
+  - first:
+      213: -5170967269266399211
+    second: Ga_idle_12
+  - first:
+      213: 671751276941591222
+    second: Ga_idle_13
+  - first:
+      213: -6912943443188068309
+    second: Ga_idle_14
+  - first:
+      213: 5870243776743016974
+    second: Ga_idle_15
+  - first:
+      213: -8374657497263627516
+    second: Ga_idle_16
+  - first:
+      213: 8628320436739197860
+    second: Ga_idle_17
+  - first:
+      213: 7301267887399499456
+    second: Ga_idle_18
+  - first:
+      213: 2250827184053860355
+    second: Ga_idle_19
+  - first:
+      213: -6062771694717195
+    second: Ga_idle_20
+  - first:
+      213: -1137350417234230852
+    second: Ga_idle_21
+  - first:
+      213: 5539969259808779697
+    second: Ga_idle_22
+  - first:
+      213: -4978986060154679282
+    second: Ga_idle_23
+  - first:
+      213: 3305452599466099996
+    second: Ga_idle_24
+  - first:
+      213: 4690422836079247522
+    second: Ga_idle_25
+  - first:
+      213: 9043580707661455979
+    second: Ga_idle_26
+  - first:
+      213: -1522002220051876365
+    second: Ga_idle_27
+  - first:
+      213: -2214762631153194368
+    second: Ga_idle_28
+  - first:
+      213: 94748621471486485
+    second: Ga_idle_29
+  - first:
+      213: -2616080987810799344
+    second: Ga_idle_30
+  - first:
+      213: 6940663895415504865
+    second: Ga_idle_31
+  - first:
+      213: -4568529080939176367
+    second: Ga_idle_32
+  - first:
+      213: -2615923527952155842
+    second: Ga_idle_33
+  - first:
+      213: -8517279621935242131
+    second: Ga_idle_34
+  - first:
+      213: 4396116854381029250
+    second: Ga_idle_35
+  - first:
+      213: -9138352937739735247
+    second: Ga_idle_36
+  - first:
+      213: 7935630573538077512
+    second: Ga_idle_37
+  - first:
+      213: -1661007716077800773
+    second: Ga_idle_38
+  - first:
+      213: -8137739719346735411
+    second: Ga_idle_39
+  - first:
+      213: -264635504934799364
+    second: Ga_idle_40
+  - first:
+      213: 8714512490673272427
+    second: Ga_idle_41
+  - first:
+      213: -4845242756289626259
+    second: Ga_idle_42
+  - first:
+      213: 1418802679973571539
+    second: Ga_idle_43
+  - first:
+      213: -9033037114933558496
+    second: Ga_idle_44
+  - first:
+      213: -5785838792473431939
+    second: Ga_idle_45
+  - first:
+      213: -5405063533089448278
+    second: Ga_idle_46
+  - first:
+      213: 6947223990398987420
+    second: Ga_idle_47
+  - first:
+      213: -3402396881953293317
+    second: Ga_idle_48
+  - first:
+      213: -8900392336617332720
+    second: Ga_idle_49
+  - first:
+      213: 9088596365747115361
+    second: Ga_idle_50
+  - first:
+      213: -234387039749684330
+    second: Ga_idle_51
+  - first:
+      213: 82065546162358513
+    second: Ga_idle_52
+  - first:
+      213: -6139326024800464137
+    second: Ga_idle_53
+  - first:
+      213: -4168403224520581893
+    second: Ga_idle_54
+  - first:
+      213: 5269105491490843680
+    second: Ga_idle_55
+  - first:
+      213: -2695270354926918194
+    second: Ga_idle_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ga_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 545
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc4e4d82dd464a50800000000000000
+      internalID: 6504972278492449979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 554
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ca6cc0a1941c730800000000000000
+      internalID: 4017572718823517216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_2
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 503
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d86a533de44c20800000000000000
+      internalID: 3189935240901088257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_3
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 495
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cb3b9e9957a8e50800000000000000
+      internalID: 6812386690262613104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 447
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598cbd66064a09300800000000000000
+      internalID: 256885912709613717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 471
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9677332779abf5770800000000000000
+      internalID: 8601798972919740265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 503
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f56e1fdfddb63e0800000000000000
+      internalID: -2059308321836998849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 487
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15ea2d55637861b0800000000000000
+      internalID: -5663149652226415331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 503
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71b41a94fe182cc0800000000000000
+      internalID: -3735701854997925505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 463
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483f2aa03d3aface0800000000000000
+      internalID: -1391713633022315644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 463
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d73e5e9f3807400800000000000000
+      internalID: 319900682870291795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 495
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d3a2543de65a1d0800000000000000
+      internalID: -3340141694947803843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 503
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51064326aa80d38b0800000000000000
+      internalID: -5170967269266399211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 495
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2c48f2a3a825900800000000000000
+      internalID: 671751276941591222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 479
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20d864909a4010a0800000000000000
+      internalID: -6912943443188068309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 0
+        width: 441
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a07b1fc9b477150800000000000000
+      internalID: 5870243776743016974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_16
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 570
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4032a08806d37cb80800000000000000
+      internalID: -8374657497263627516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab4510f8b3fdb770800000000000000
+      internalID: 8628320436739197860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_18
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 487
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6f966b570535560800000000000000
+      internalID: 7301267887399499456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_19
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 487
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308b254066b8c3f10800000000000000
+      internalID: 2250827184053860355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_20
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f638c6f0f57aeff0800000000000000
+      internalID: -6062771694717195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_21
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 471
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb18c9b42d15730f0800000000000000
+      internalID: -1137350417234230852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 383
+        width: 146
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd6c7590bce1ec40800000000000000
+      internalID: 5539969259808779697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_23
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 423
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00dbdede8617eab0800000000000000
+      internalID: -4978986060154679282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_24
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15811d40a35fdd20800000000000000
+      internalID: 3305452599466099996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_25
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 319
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a042eee7bab71140800000000000000
+      internalID: 4690422836079247522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_26
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62acb91db0418d70800000000000000
+      internalID: 9043580707661455979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 359
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5b3767b03c0eae0800000000000000
+      internalID: -1522002220051876365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_28
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 327
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aed4c0f159341e0800000000000000
+      internalID: -2214762631153194368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_29
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51214c58e5d905100800000000000000
+      internalID: 94748621471486485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_30
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 295
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01162e1c330d1bbd0800000000000000
+      internalID: -2616080987810799344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_31
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 231
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efbe972a01325060800000000000000
+      internalID: 6940663895415504865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_32
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 255
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e149881035990c0800000000000000
+      internalID: -4568529080939176367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_33
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 271
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b33dc396f52bbd0800000000000000
+      internalID: -2615923527952155842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_34
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6460e17f4b8cc980800000000000000
+      internalID: -8517279621935242131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_35
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 247
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2872d78ccf4220d30800000000000000
+      internalID: 4396116854381029250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_36
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 239
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f20e19b6c0e2180800000000000000
+      internalID: -9138352937739735247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_37
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 247
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b677c36f5012e60800000000000000
+      internalID: 7935630573538077512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_38
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 103
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2fff9584ae2f8e0800000000000000
+      internalID: -1661007716077800773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_39
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 231
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc630c147d0f01f80800000000000000
+      internalID: -8137739719346735411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_40
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 95
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7b76d0963d35cf0800000000000000
+      internalID: -264635504934799364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_41
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 103
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66f84550fa20f870800000000000000
+      internalID: 8714512490673272427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_42
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 135
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f72d4626d32ccb0800000000000000
+      internalID: -4845242756289626259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_43
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 79
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db6232358990b310800000000000000
+      internalID: 1418802679973571539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_44
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 87
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02347716a9434a280800000000000000
+      internalID: -9033037114933558496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_45
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7032fed54294bfa0800000000000000
+      internalID: -5785838792473431939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_46
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 71
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae19c99a5b5df4b0800000000000000
+      internalID: -5405063533089448278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_47
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cadca496f796060800000000000000
+      internalID: 6947223990398987420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_48
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 138
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbf642001248c0d0800000000000000
+      internalID: -3402396881953293317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_49
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 0
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010a05e73547b7480800000000000000
+      internalID: -8900392336617332720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_50
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165534fbd3e212e70800000000000000
+      internalID: 9088596365747115361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_51
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 23
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693c3cbaa3a4fbcf0800000000000000
+      internalID: -234387039749684330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_52
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f84e4fed2e832100800000000000000
+      internalID: 82065546162358513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_53
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2157b028bbccaa0800000000000000
+      internalID: -6139326024800464137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_54
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc9bd93a5bd626c0800000000000000
+      internalID: -4168403224520581893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_55
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c2f50178f9f1940800000000000000
+      internalID: 5269105491490843680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ga_idle_56
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5a0f074e9789ad0800000000000000
+      internalID: -2695270354926918194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ga_idle_0: 6504972278492449979
+      Ga_idle_1: 4017572718823517216
+      Ga_idle_10: 319900682870291795
+      Ga_idle_11: -3340141694947803843
+      Ga_idle_12: -5170967269266399211
+      Ga_idle_13: 671751276941591222
+      Ga_idle_14: -6912943443188068309
+      Ga_idle_15: 5870243776743016974
+      Ga_idle_16: -8374657497263627516
+      Ga_idle_17: 8628320436739197860
+      Ga_idle_18: 7301267887399499456
+      Ga_idle_19: 2250827184053860355
+      Ga_idle_2: 3189935240901088257
+      Ga_idle_20: -6062771694717195
+      Ga_idle_21: -1137350417234230852
+      Ga_idle_22: 5539969259808779697
+      Ga_idle_23: -4978986060154679282
+      Ga_idle_24: 3305452599466099996
+      Ga_idle_25: 4690422836079247522
+      Ga_idle_26: 9043580707661455979
+      Ga_idle_27: -1522002220051876365
+      Ga_idle_28: -2214762631153194368
+      Ga_idle_29: 94748621471486485
+      Ga_idle_3: 6812386690262613104
+      Ga_idle_30: -2616080987810799344
+      Ga_idle_31: 6940663895415504865
+      Ga_idle_32: -4568529080939176367
+      Ga_idle_33: -2615923527952155842
+      Ga_idle_34: -8517279621935242131
+      Ga_idle_35: 4396116854381029250
+      Ga_idle_36: -9138352937739735247
+      Ga_idle_37: 7935630573538077512
+      Ga_idle_38: -1661007716077800773
+      Ga_idle_39: -8137739719346735411
+      Ga_idle_4: 256885912709613717
+      Ga_idle_40: -264635504934799364
+      Ga_idle_41: 8714512490673272427
+      Ga_idle_42: -4845242756289626259
+      Ga_idle_43: 1418802679973571539
+      Ga_idle_44: -9033037114933558496
+      Ga_idle_45: -5785838792473431939
+      Ga_idle_46: -5405063533089448278
+      Ga_idle_47: 6947223990398987420
+      Ga_idle_48: -3402396881953293317
+      Ga_idle_49: -8900392336617332720
+      Ga_idle_5: 8601798972919740265
+      Ga_idle_50: 9088596365747115361
+      Ga_idle_51: -234387039749684330
+      Ga_idle_52: 82065546162358513
+      Ga_idle_53: -6139326024800464137
+      Ga_idle_54: -4168403224520581893
+      Ga_idle_55: 5269105491490843680
+      Ga_idle_56: -2695270354926918194
+      Ga_idle_6: -2059308321836998849
+      Ga_idle_7: -5663149652226415331
+      Ga_idle_8: -3735701854997925505
+      Ga_idle_9: -1391713633022315644
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
